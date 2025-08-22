@@ -1,4 +1,8 @@
 langchain
 langchain_openai
+langchain_community
 python-dotenv
 grandalf
+pypdf
+jq
+Unstructured[pdf, csv, txt, json]
