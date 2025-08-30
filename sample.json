@@ -1,5 +1,5 @@
 {
-    "name": "Alice Nick",
+    "name": "Alice",
     "age": 25,
     "skills": [
         "Python",
@@ -8,4 +8,3 @@
     ],
     "is_active": true
 }
-1
